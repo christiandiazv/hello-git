@@ -1,1 +1,1 @@
-Print ("New Hola Git")
+Print ("Hola Git")
